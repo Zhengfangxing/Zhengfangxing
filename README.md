@@ -34,10 +34,7 @@
 
 ### Contact me
 
-daimajia@gmail.com
+boyisxuxu@gmail.com
 
-My lovely daugther. ❤️
-
-![图片](https://)
 
 Leave a message to me? --> https://github.com/zhengfangxing/zhengfangxing/issues
