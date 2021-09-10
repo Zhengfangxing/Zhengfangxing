@@ -10,18 +10,7 @@
 
 ![Boyisxuxu's github stats](https://github-readme-stats.vercel.app/api?username=zhengfangxing&show_icons=true&theme=dracula)
 
-### Trading Story
-
-[Magic Trader](https://www.youtube.com/channel/UCkRc4Cyv0DZecuLjARwP3Gw)
-
 ---- 
-
-### Social
-
-- 🥸 : [twitter.com/daimajia](twitter.com/daimajia)
-- 👻 : [daimajia.com](daimajia.com)
-
-----
 
 ### Contact me
 
