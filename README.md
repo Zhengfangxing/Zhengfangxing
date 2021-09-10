@@ -1,6 +1,6 @@
 ### Hey Bro. 👋
 
-- 💰 : [William Zheng](https:/zhengfangxing.github.io) investment Associate
+- 💰 : [William Zheng](http:/zhengfangxing.github.io) investment Associate
 - 💻 : [hsbc.com](https://hsbc.com/) Software Engineer
 - 🎓 : [Xi'An Peihua University](http://www.peihua.cn/)
 
