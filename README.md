@@ -6,15 +6,6 @@
 
 ----
 
-### Products
-![64](https://user-images.githubusercontent.com/2503423/130353170-fc6a8a8a-38df-4711-aafa-e0c98646f822.png)
-
-- [TickerPad](https://tickerpad.app): a
- macOS app which helps you track your favorite crypto price via macOS menu bar. 
-### Investment Portfolio
-
-[D-Matrix](http://www.di-matrix.com/)  |   [Maxtropy](http://www.maxtropy.com/)  | [Showmebug](https://www.showmebug.com/)  | [元気森林](https://www.yuanqisenlin.com/) | [Cyber Kunlun](https://www.cyberkl.com/)  |  AYoxi Tech
-
 ### Code Stats
 
 ![Boyisxuxu's github stats](https://github-readme-stats.vercel.app/api?username=zhengfangxing&show_icons=true&theme=dracula)
