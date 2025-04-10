@@ -1,7 +1,7 @@
 ### Hey Bro. 👋
 
 - 💰 : [William Zheng](http:/zhengfangxing.github.io) investment Associate
-- 💻 : [microsoft](https://www.microsoft.com/) Software Engineer/SRE
+- 💻 : [Microsoft](https://www.microsoft.com/) Software Engineer/SRE
 - 🎓 : [Xi'An Peihua University](http://www.peihua.cn/)
 
 ----
